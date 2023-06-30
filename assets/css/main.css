@@ -19,7 +19,7 @@
 #technologies-grid {
 	width: 100%;
 	display: grid;
-	grid-template-columns: repeat(auto-fill, 50px);
+	grid-template-columns: repeat(auto-fill, 70px);
 }
 
 #technologies-grid i {
