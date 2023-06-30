@@ -25,6 +25,8 @@
 #technologies-grid i {
 	width: 100%;
 	box-sizing: border-box;
+	text-align: center;
+	font-size: 40px;
 }
 
 
