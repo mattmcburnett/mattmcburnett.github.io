@@ -13,7 +13,7 @@
 #technologies-div-container {
 	display: flex;
 	flex-direction: column;
-	justify-content: center;
+	align-items: center;
 }
 
 #technologies-grid {
@@ -26,7 +26,7 @@
 	width: 100%;
 	box-sizing: border-box;
 	text-align: center;
-	font-size: 40px;
+	font-size: 60px;
 }
 
 
